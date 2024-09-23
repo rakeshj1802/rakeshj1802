@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rakesh Jonnadula (@rakeshj1802) 
+# Hi there 👋 I'm Rakesh Jonnadula
 
 👀 I’m interested in **Data Analysis, Data Automation, Web Development**, and everything in between! I love exploring new technologies and applying them to solve real-world problems. 
 

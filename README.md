@@ -1,13 +1,19 @@
-# Hi there 👋 I'm Rakesh Jonnadula
+**Hi, I'm Rakesh Jonnadula! 👋**
+*Welcome to my GitHub profile! I'm a passionate Data Analyst and aspiring Full-Stack Developer with a strong foundation in Python, SQL, and Data Visualization. I thrive on solving complex problems and turning data into actionable insights. Here, you'll find a collection of projects showcasing my skills in data analytics, web development, and more.*
 
-👀 I’m interested in **Data Analysis, Data Automation, Web Development**, and everything in between! I love exploring new technologies and applying them to solve real-world problems. 
+**🔧 Skills and Tools:**
+*Programming Languages*: Python, SQL, Java, JavaScript
+*Data Analytics*: Power BI, Tableau, MS Excel, Pandas, NumPy
+*Web Development*: HTML, CSS, JavaScript, React.js, Flask
+*Database Management*: MySQL
+*Business Intelligence*: Power BI, Advanced Excel,Tableau
+*Cloud*: AWS, Google Cloud
+*Version Control*: Git, GitHub
 
-🌱 I’m currently learning **Python, SQL, Power BI**, and **data visualization techniques** to enhance my data analysis skills. I also enjoy working on **web development** projects using **HTML, CSS, and JavaScript**.
-
-💞️ I’m looking to collaborate on **data science projects** that involve **data automation**, **ETL processes**, and **building dashboards** for insightful data visualizations.
-
-📫 You can reach me at **rakeshjonnadula2002@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/rakeshjonnadula).
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I’m a huge cricket fan and love analyzing match statistics in my free time!
+**💡 What I’m currently working on:**
+Improving my skills in full-stack development with a focus on React and Flask.
+Exploring advanced data analytics techniques using Python and BI tools.
+**📫 How to reach me:**
+LinkedIn: Rakesh Jonnadula
+Email: rakeshjonnadula2002@gmail.com
+Feel free to explore my repositories and connect with me for collaborations or discussions! 😊

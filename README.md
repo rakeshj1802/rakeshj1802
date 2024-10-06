@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I’m a **dynamic Data Analyst** and an **aspiring
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,7 +39,7 @@ Welcome to my GitHub profile! I’m a **dynamic Data Analyst** and an **aspiring
 ---
 
 ### 🌱 **Currently Excelling At**:
-- **Full-Stack Development**: Perfecting my skills with **React** and **Flask** to create robust and user-friendly applications.
+- **Full-Stack Development**: Perfecting my skills with **React** to create robust and user-friendly applications.
 - **Advanced Data Analytics**: Leveraging **Python** and BI tools to extract powerful insights and drive strategic decisions.
 
 ---

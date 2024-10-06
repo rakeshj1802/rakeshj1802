@@ -1,6 +1,6 @@
-# Hello, I'm Rakesh Jonnadula! 🚀
-
 # Welcome to my GitHub profile!
+---
+***Hello, I'm Rakesh Jonnadula! 🚀***
 I’m a **Aspiring Data Analyst** and an **Full-Stack Developer**, dedicated to transforming data into compelling narratives and building innovative projects that make a real impact. My journey is driven by a passion for **Python**, **SQL**, and **Data Visualization**, and I thrive on tackling complex challenges head-on.
 
 ---
